@@ -130,5 +130,4 @@
         $(".photo ul li").eq(index).stop().fadeIn(1000).siblings().stop().fadeOut(1000);
     }
 </script>
-
 </html>
